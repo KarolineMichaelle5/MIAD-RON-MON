@@ -4,7 +4,7 @@ Este proyecto desarrolla modelos para estimar **RON** y **MON** a partir de espe
 
 ## Funcionalidades principales
 - Procesamiento de espectros
-- Modelos predictivos basados en **PLSRegression**
+- Modelos predictivos basados en **Machine Learning**
 - Métricas de evaluación estándar (RMSE, MAE, R²)
 - Predicción de RON/MON para nuevos espectros IR
 
