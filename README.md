@@ -3,7 +3,7 @@
 Este proyecto desarrolla modelos para estimar **RON** y **MON** a partir de espectros infrarrojos FTIR, con el fin de acelerar el análisis de calidad de gasolinas y optimizar recursos del laboratorio.
 
 ## Funcionalidades principales
-- Procesamiento de espectros (recorte y segunda derivada)
+- Procesamiento de espectros
 - Modelos predictivos basados en **PLSRegression**
 - Métricas de evaluación estándar (RMSE, MAE, R²)
 - Predicción de RON/MON para nuevos espectros IR
