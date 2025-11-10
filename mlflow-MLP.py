@@ -38,10 +38,10 @@ with mlflow.start_run(experiment_id=experiment.experiment_id):
     # defina los parámetros del modelo, previamente encontrados con la búsqueda de hiperparámetros
     solver = "lbfgs"
     max_iter = 1000
-    learning_rate_init = 0.0001,
-    learning_rate = 'constant',
-    hidden_layer_sizes = (200, 100, 50, 25),
-    alpha = 0.1,
+    learning_rate_init = 0.0001
+    learning_rate = 'constant'
+    hidden_layer_sizes = (200, 100, 50, 25)
+    alpha = 0.1
     activation = 'relu'
     # Cree el modelo con los parámetros definidos y entrénelo
     model = MLPRegressor(solver=solver,
