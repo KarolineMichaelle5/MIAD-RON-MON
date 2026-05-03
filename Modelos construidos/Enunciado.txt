@@ -1,1 +1,0 @@
-Esa carpeta contiene los modelos desarrollados durante la implementación del proyecto.
